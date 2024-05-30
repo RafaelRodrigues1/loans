@@ -1,6 +1,7 @@
 # Empréstimos
 
-Desafio desenvolvido aplicando Arquitetura Hexagonal
+
+[Desafio](https://github.com/backend-br/desafios/blob/master/loans/PROBLEM.md) desenvolvido aplicando Arquitetura Hexagonal.
 
 Seu desafio será implementar um serviço que determine quais modalidades de empréstimo uma pessoa tem acesso.
 
